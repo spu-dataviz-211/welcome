@@ -1,6 +1,6 @@
 # Welcome to DS-620 - Data Visualization
 
-<!-- ![hadoop-spark](hadoop-spark.png) -->
+![viz-graphs](cover.jpg)
 
 - [Welcome to DS-620 - Data Visualization](#welcome-to-ds-620---data-visualization)
   - [Introduction](#introduction)

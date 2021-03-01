@@ -6,6 +6,7 @@ time: Thursday 06:00PM - 09:25PM
 office hour: By Appointment
 ---
 # DS-620 - Data Visualization
+
 ## Course Description
 
 Visualization concerns the graphical depiction of data and information in order to communicate its contents and reveal patterns inherent in the data. It is sometimes referred to as visual data mining, or visual analytics. 
@@ -50,7 +51,7 @@ ISBN: 9781466508910
 
 The website by Tamara Munzner also has great content about the book, check it out from [https://www.cs.ubc.ca/~tmm/vadbook/](https://www.cs.ubc.ca/~tmm/vadbook/).
 
-[Handbook of Data Visualization](https://www.springer.com/gp/book/9783540330363) by Tamara Munzner.
+[Handbook of Data Visualization](https://www.springer.com/gp/book/9783540330363) by Chun-houh Chen, Wolfgang Karl Härdle, Antony Unwin.
 
 ``` yml
 Title: Handbook of Data Visualization
